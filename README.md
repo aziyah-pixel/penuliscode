@@ -1,0 +1,2 @@
+# penuliscode
+praktek membuat portpolio
